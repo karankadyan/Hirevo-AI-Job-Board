@@ -2,10 +2,6 @@
 
 This project is a **fully functional job board** that handles users, organisations, payment plans, and subscriptions. It takes the concept to the next level by integrating **AI features throughout the entire application**. The development also focuses on **best practices with Next.js, TypeScript, and databases**, ensuring clean and maintainable code. This is described as a "massive project" that would look "incredible on any resume or portfolio".
 
-<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/74c1ec8c-9b49-4034-9be5-51fcb1f6d1f4" />
-<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/6fd2286e-dcc9-45df-a14a-a3ca39193a1c" />
-
-
 ## Key Features
 
 The job board offers a comprehensive set of functionalities, enhanced by artificial intelligence:
